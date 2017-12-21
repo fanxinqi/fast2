@@ -1,0 +1,25 @@
+#!/usr/bin/env node
+const App = require('./app.js')
+const exec = require('child_process').exec;
+const spawn = require('child_process').spawn;
+const argv = require("minimist")(process.argv.slice(2), {
+    alias: {
+        'port': 'p'
+    },
+    string: ['port', 'hostname', 'fallback'],
+    boolean: ['silent', 'log'],
+    'default': {
+        'port': 8000,
+        'dir': process.cwd()
+    }
+});
+
+if (argv.help) {
+    console.log("Usage:");
+    console.log("fast2 --help // print help information");
+    console.log("fast2 -p 8989 // 8989 as port");
+    process.exit(0);
+}
+const port = parseInt(argv._[0] || argv.port, 10);
+
+new App(port);

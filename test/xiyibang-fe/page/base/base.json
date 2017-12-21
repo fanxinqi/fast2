@@ -1,0 +1,153 @@
+{
+  "tplData":{
+    "code":0,
+    "message":"",
+    "data":{
+      "clazsManager": true,
+      "myClazses":[
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"&quot;苹果班4",
+          "clazsStatus":0,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":true,
+          "master":false,
+          "clazsStatusName":null
+        },
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"苹果班6",
+          "clazsStatus":0,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":true,
+          "master":false,
+          "clazsStatusName":null
+        },
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"苹果班8",
+          "clazsStatus":11,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":false,
+          "master":false,
+          "clazsStatusName":null
+        },
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"苹果班8",
+          "clazsStatus":11,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":false,
+          "master":false,
+          "clazsStatusName":null
+        },
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"苹果班8",
+          "clazsStatus":11,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":false,
+          "master":false,
+          "clazsStatusName":null
+        },
+        {
+          "id":9,
+          "platId":1,
+          "projectId":17,
+          "clazsName":"苹果班8",
+          "clazsStatus":11,
+          "clazsType":1,
+          "startTime":"2017-09-22 00:00:00",
+          "endTime":"2017-09-28 00:00:00",
+          "description":"法法师",
+          "manager":false,
+          "master":false,
+          "clazsStatusName":null
+        }
+      ]
+    },
+    "currentUser":{
+      "userInfo":{
+        "userId":9768712,
+        "showName":"多隆",
+        "avatar":"http://s2.jsyxw.cn/yanxiu/h2.jpg",
+        "scene":{
+          "platId":"1",
+          "platformName":"特呆",
+          "projectId":"17",
+          "projectName":"面授项目",
+          "clazsId":null,
+          "clazsName":null,
+          "courseId":null,
+          "courseName":null,
+          "courseIdNumber":null,
+          "clazsIdNumber":null,
+          "projectIdNumber":17,
+          "platIdNumber":1
+        },
+        "roles":[
+          {
+            "id":3,
+            "appId":0,
+            "systemId":0,
+            "roleId":400,
+            "roleName":"项目管理员",
+            "fetchType":"sql",
+            "fetchValue":"55555555",
+            "ruleId":"2,5",
+            "remark":null
+          },
+          {
+            "id":4,
+            "appId":0,
+            "systemId":0,
+            "roleId":100,
+            "roleName":"登录用户",
+            "fetchType":"sql",
+            "fetchValue":"55",
+            "ruleId":"2,6",
+            "remark":null
+          },
+          {
+            "id":6,
+            "appId":0,
+            "systemId":0,
+            "roleId":500,
+            "roleName":"平台管理员",
+            "fetchType":"sql",
+            "fetchValue":"55555",
+            "ruleId":"5",
+            "remark":null
+          }
+        ]
+      }
+    },
+    "currentTime":1506162292142,
+    "error":null
+  }
+}

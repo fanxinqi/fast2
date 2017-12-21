@@ -1,0 +1,34 @@
+fast2 server run....
+/Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:55
+    var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(namespace) {
+                                               ^
+
+ReferenceError: regeneratorRuntime is not defined
+    at /Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:55:48
+    at Object.<anonymous> (/Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:75:2)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/fanxinqi/Documents/srt/trunk/st/dist/app.js:24:12)
+/Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:55
+    var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(namespace) {
+                                               ^
+
+ReferenceError: regeneratorRuntime is not defined
+    at /Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:55:48
+    at Object.<anonymous> (/Users/fanxinqi/Documents/srt/trunk/st/dist/middlewares/view/index.js:75:2)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/fanxinqi/Documents/srt/trunk/st/dist/app.js:24:12)
+fast2 server run....
+fast2 server run....at port [8000]
+fast2 server run....at port [8000]

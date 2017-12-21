@@ -1,0 +1,28 @@
+{
+	"res":{
+        "__online__:zone.js": {
+            "uri": "http://b.yanxiu.com/basicdata/category/file/area.vm",
+            "type": "js",
+            "extras": {
+                "moduleId": "__online__:zone"
+            }
+        },
+        "__online__:section.js": {
+            "uri": "http://b.yanxiu.com/basicdata/category/file/categoryMutilList.vm?json=[{%221200%22:[1100,1300]}]",
+            "type": "js",
+            "extras": {
+                "moduleId": "__online__:section"
+            }
+        },
+        "__online__:section-filter.js": {
+            "uri": "http://b.yanxiu.com/basicdata/category/file/categoryList.vm?roots=1200,1100",
+            "type": "js",
+            "extras": {
+                "moduleId": "__online__:section-filter"
+            }
+        }
+	},
+    "pkg":{
+        
+    }
+}
